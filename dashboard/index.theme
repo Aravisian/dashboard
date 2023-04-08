@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Dashboard
+Comment=A theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Dashboard
+MetacityTheme=Dashboard
+ButtonLayout=menu:minimize,maximize,close
